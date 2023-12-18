@@ -1,2 +1,5 @@
 testing
 ......
+learning git diff
+
+if the file is alredy stagged, then use git diff --stagged
